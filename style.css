@@ -174,7 +174,7 @@ body {
 }
 
 /* Responsive */
-@media (max-width: 768px) {
+@media (max-width: 512px) {
   .header {
     flex-direction: column;
     gap: 15px;
@@ -211,3 +211,4 @@ body {
     padding: 60px 20px;
   }
 }
+
