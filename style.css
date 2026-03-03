@@ -52,7 +52,7 @@ body {
 }
 
 .hero-image img {
-  width: 100%;
+  width: 60%;
   border-radius: 22px;
   border: 1px solid #eee;
 }
@@ -211,4 +211,5 @@ body {
     padding: 60px 20px;
   }
 }
+
 
